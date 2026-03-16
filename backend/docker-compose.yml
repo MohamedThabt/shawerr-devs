@@ -1,0 +1,91 @@
+services:
+
+  # FastAPI Backend
+  fastapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fastapi
+    ports:
+      - "8000:8000"
+    volumes:
+      - fastapi_data:/app/data
+      - ./logs:/app/logs
+    environment:
+      # DATABASE_URL is overridden here so containers don't rely on local .env
+      - DATABASE_URL=postgresql+asyncpg://app_user:app_pass@postgres:5432/app_db
+      # FastAPI runs in its own container; use Ollama service hostname, not localhost
+      - APP_OLLAMA_BASE_URL=http://ollama:11434
+      # Default to production in container; override to "development" in local .env when needed
+      - APP_APP_ENV=${APP_APP_ENV:-production}
+      - APP_CORS_ORIGINS=${APP_CORS_ORIGINS:-http://localhost:5173}
+    depends_on:
+      postgres:
+        condition: service_started
+      ollama:
+        condition: service_started
+    networks:
+      - backend
+    restart: always
+
+  # Nginx Reverse Proxy
+  nginx:
+    image: nginx:1.28.2
+    container_name: nginx
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - fastapi
+    networks:
+      - backend
+    restart: always
+
+  # Ollama LLM – pulls llama3.2 on first start via entrypoint
+  ollama:
+    image: ollama/ollama:0.17.6
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+      - ./docker/ollama-entrypoint.sh:/entrypoint-raw.sh:ro
+    entrypoint: ["/bin/bash", "-c", "sed 's/\\r$//' /entrypoint-raw.sh > /tmp/entrypoint.sh && chmod +x /tmp/entrypoint.sh && /tmp/entrypoint.sh"]
+    networks:
+      - backend
+    restart: always
+    mem_limit: 6g
+    mem_reservation: 4g
+    deploy:
+      resources:
+        limits:
+          memory: 6G
+        reservations:
+          memory: 4G
+
+  # PostgreSQL Database
+  postgres:
+    image: postgres:16
+    container_name: postgres
+    environment:
+      POSTGRES_DB: app_db
+      POSTGRES_USER: app_user
+      POSTGRES_PASSWORD: app_pass
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - backend
+    restart: always
+
+
+networks:
+  backend:
+    driver: bridge
+
+volumes:
+  fastapi_data:
+  ollama_data:
+  pg_data:

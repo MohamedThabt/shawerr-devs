@@ -1,0 +1,42 @@
+# Web Framework & Server
+fastapi[standard]==0.133.0
+uvicorn[standard]==0.41.0
+
+# Data Validation & Settings
+pydantic==2.12.5
+pydantic-settings==2.13.1
+
+# Configuration
+python-dotenv==1.2.1
+
+
+# HTTP Client
+httpx==0.28.1
+
+# RSS Parsing
+feedparser==6.0.12
+
+
+# NLP / Geocoding
+spacy==3.8.11
+geopy==2.4.1
+
+# AI / LLM
+langchain-core==1.2.18
+langchain-ollama==1.0.1
+
+
+
+#Database
+sqlalchemy==2.0.48
+asyncpg==0.31.0
+psycopg2-binary==2.9.11
+
+# Scheduling
+apscheduler==3.11.2
+
+# Rate Limiting
+slowapi==0.1.9
+
+# Logging / Observability
+logtail-python==0.3.4

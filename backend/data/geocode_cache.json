@@ -1,0 +1,1225 @@
+{
+  "Iran": {
+    "name": "Iran",
+    "lat": 32.4279,
+    "lon": 53.688,
+    "type": "country",
+    "rank": 3
+  },
+  "Iraq": {
+    "name": "Iraq",
+    "lat": 33.2232,
+    "lon": 43.6793,
+    "type": "country",
+    "rank": 3
+  },
+  "Israel": {
+    "name": "Israel",
+    "lat": 31.0461,
+    "lon": 34.8516,
+    "type": "country",
+    "rank": 3
+  },
+  "Palestine": {
+    "name": "Palestine",
+    "lat": 31.9522,
+    "lon": 35.2332,
+    "type": "country",
+    "rank": 3
+  },
+  "Syria": {
+    "name": "Syria",
+    "lat": 34.8021,
+    "lon": 38.9968,
+    "type": "country",
+    "rank": 3
+  },
+  "Lebanon": {
+    "name": "Lebanon",
+    "lat": 33.8547,
+    "lon": 35.8623,
+    "type": "country",
+    "rank": 3
+  },
+  "Yemen": {
+    "name": "Yemen",
+    "lat": 15.5527,
+    "lon": 48.5164,
+    "type": "country",
+    "rank": 3
+  },
+  "Saudi Arabia": {
+    "name": "Saudi Arabia",
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "type": "country",
+    "rank": 3
+  },
+  "Turkey": {
+    "name": "Turkey",
+    "lat": 38.9637,
+    "lon": 35.2433,
+    "type": "country",
+    "rank": 3
+  },
+  "Egypt": {
+    "name": "Egypt",
+    "lat": 26.8206,
+    "lon": 30.8025,
+    "type": "country",
+    "rank": 3
+  },
+  "Jordan": {
+    "name": "Jordan",
+    "lat": 30.5852,
+    "lon": 36.2384,
+    "type": "country",
+    "rank": 3
+  },
+  "United States": {
+    "name": "United States",
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "type": "country",
+    "rank": 3
+  },
+  "United Kingdom": {
+    "name": "United Kingdom",
+    "lat": 55.3781,
+    "lon": -3.436,
+    "type": "country",
+    "rank": 3
+  },
+  "Russia": {
+    "name": "Russia",
+    "lat": 61.524,
+    "lon": 105.3188,
+    "type": "country",
+    "rank": 3
+  },
+  "Ukraine": {
+    "name": "Ukraine",
+    "lat": 48.3794,
+    "lon": 31.1656,
+    "type": "country",
+    "rank": 3
+  },
+  "China": {
+    "name": "China",
+    "lat": 35.8617,
+    "lon": 104.1954,
+    "type": "country",
+    "rank": 3
+  },
+  "Japan": {
+    "name": "Japan",
+    "lat": 36.2048,
+    "lon": 138.2529,
+    "type": "country",
+    "rank": 3
+  },
+  "South Korea": {
+    "name": "South Korea",
+    "lat": 35.9078,
+    "lon": 127.7669,
+    "type": "country",
+    "rank": 3
+  },
+  "North Korea": {
+    "name": "North Korea",
+    "lat": 40.3399,
+    "lon": 127.5101,
+    "type": "country",
+    "rank": 3
+  },
+  "India": {
+    "name": "India",
+    "lat": 20.5937,
+    "lon": 78.9629,
+    "type": "country",
+    "rank": 3
+  },
+  "Pakistan": {
+    "name": "Pakistan",
+    "lat": 30.3753,
+    "lon": 69.3451,
+    "type": "country",
+    "rank": 3
+  },
+  "Afghanistan": {
+    "name": "Afghanistan",
+    "lat": 33.9391,
+    "lon": 67.71,
+    "type": "country",
+    "rank": 3
+  },
+  "Germany": {
+    "name": "Germany",
+    "lat": 51.1657,
+    "lon": 10.4515,
+    "type": "country",
+    "rank": 3
+  },
+  "France": {
+    "name": "France",
+    "lat": 46.2276,
+    "lon": 2.2137,
+    "type": "country",
+    "rank": 3
+  },
+  "Italy": {
+    "name": "Italy",
+    "lat": 41.8719,
+    "lon": 12.5674,
+    "type": "country",
+    "rank": 3
+  },
+  "Spain": {
+    "name": "Spain",
+    "lat": 40.4637,
+    "lon": -3.7492,
+    "type": "country",
+    "rank": 3
+  },
+  "Canada": {
+    "name": "Canada",
+    "lat": 56.1304,
+    "lon": -106.3468,
+    "type": "country",
+    "rank": 3
+  },
+  "Mexico": {
+    "name": "Mexico",
+    "lat": 23.6345,
+    "lon": -102.5528,
+    "type": "country",
+    "rank": 3
+  },
+  "Brazil": {
+    "name": "Brazil",
+    "lat": -14.235,
+    "lon": -51.9253,
+    "type": "country",
+    "rank": 3
+  },
+  "Australia": {
+    "name": "Australia",
+    "lat": -25.2744,
+    "lon": 133.7751,
+    "type": "country",
+    "rank": 3
+  },
+  "Taiwan": {
+    "name": "Taiwan",
+    "lat": 23.6978,
+    "lon": 120.9605,
+    "type": "country",
+    "rank": 3
+  },
+  "Poland": {
+    "name": "Poland",
+    "lat": 51.9194,
+    "lon": 19.1451,
+    "type": "country",
+    "rank": 3
+  },
+  "Nigeria": {
+    "name": "Nigeria",
+    "lat": 9.082,
+    "lon": 8.6753,
+    "type": "country",
+    "rank": 3
+  },
+  "South Africa": {
+    "name": "South Africa",
+    "lat": -30.5595,
+    "lon": 22.9375,
+    "type": "country",
+    "rank": 3
+  },
+  "Ethiopia": {
+    "name": "Ethiopia",
+    "lat": 9.145,
+    "lon": 40.4897,
+    "type": "country",
+    "rank": 3
+  },
+  "Sudan": {
+    "name": "Sudan",
+    "lat": 12.8628,
+    "lon": 30.2176,
+    "type": "country",
+    "rank": 3
+  },
+  "Libya": {
+    "name": "Libya",
+    "lat": 26.3351,
+    "lon": 17.2283,
+    "type": "country",
+    "rank": 3
+  },
+  "Somalia": {
+    "name": "Somalia",
+    "lat": 5.1521,
+    "lon": 46.1996,
+    "type": "country",
+    "rank": 3
+  },
+  "Myanmar": {
+    "name": "Myanmar",
+    "lat": 21.9162,
+    "lon": 95.956,
+    "type": "country",
+    "rank": 3
+  },
+  "Thailand": {
+    "name": "Thailand",
+    "lat": 15.87,
+    "lon": 100.9925,
+    "type": "country",
+    "rank": 3
+  },
+  "Indonesia": {
+    "name": "Indonesia",
+    "lat": -0.7893,
+    "lon": 113.9213,
+    "type": "country",
+    "rank": 3
+  },
+  "Philippines": {
+    "name": "Philippines",
+    "lat": 12.8797,
+    "lon": 121.774,
+    "type": "country",
+    "rank": 3
+  },
+  "Vietnam": {
+    "name": "Vietnam",
+    "lat": 14.0583,
+    "lon": 108.2772,
+    "type": "country",
+    "rank": 3
+  },
+  "Cuba": {
+    "name": "Cuba",
+    "lat": 21.5218,
+    "lon": -77.7812,
+    "type": "country",
+    "rank": 3
+  },
+  "Venezuela": {
+    "name": "Venezuela",
+    "lat": 6.4238,
+    "lon": -66.5897,
+    "type": "country",
+    "rank": 3
+  },
+  "Colombia": {
+    "name": "Colombia",
+    "lat": 4.5709,
+    "lon": -74.2973,
+    "type": "country",
+    "rank": 3
+  },
+  "Argentina": {
+    "name": "Argentina",
+    "lat": -38.4161,
+    "lon": -63.6167,
+    "type": "country",
+    "rank": 3
+  },
+  "Gaza": {
+    "name": "Gaza",
+    "lat": 31.3547,
+    "lon": 34.3088,
+    "type": "city",
+    "rank": 1
+  },
+  "Kyiv": {
+    "name": "Kyiv",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "type": "city",
+    "rank": 1
+  },
+  "Moscow": {
+    "name": "Moscow",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "type": "city",
+    "rank": 1
+  },
+  "Beijing": {
+    "name": "Beijing",
+    "lat": 39.9042,
+    "lon": 116.4074,
+    "type": "city",
+    "rank": 1
+  },
+  "Washington": {
+    "name": "Washington",
+    "lat": 38.9072,
+    "lon": -77.0369,
+    "type": "city",
+    "rank": 1
+  },
+  "London": {
+    "name": "London",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "type": "city",
+    "rank": 1
+  },
+  "Paris": {
+    "name": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "type": "city",
+    "rank": 1
+  },
+  "Berlin": {
+    "name": "Berlin",
+    "lat": 52.52,
+    "lon": 13.405,
+    "type": "city",
+    "rank": 1
+  },
+  "Tokyo": {
+    "name": "Tokyo",
+    "lat": 35.6762,
+    "lon": 139.6503,
+    "type": "city",
+    "rank": 1
+  },
+  "Seoul": {
+    "name": "Seoul",
+    "lat": 37.5665,
+    "lon": 126.978,
+    "type": "city",
+    "rank": 1
+  },
+  "New Delhi": {
+    "name": "New Delhi",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "type": "city",
+    "rank": 1
+  },
+  "Tehran": {
+    "name": "Tehran",
+    "lat": 35.6892,
+    "lon": 51.389,
+    "type": "city",
+    "rank": 1
+  },
+  "Baghdad": {
+    "name": "Baghdad",
+    "lat": 33.3152,
+    "lon": 44.3661,
+    "type": "city",
+    "rank": 1
+  },
+  "Damascus": {
+    "name": "Damascus",
+    "lat": 33.5138,
+    "lon": 36.2765,
+    "type": "city",
+    "rank": 1
+  },
+  "Taipei": {
+    "name": "Taipei",
+    "lat": 25.033,
+    "lon": 121.5654,
+    "type": "city",
+    "rank": 1
+  },
+  "Kabul": {
+    "name": "Kabul",
+    "lat": 34.5553,
+    "lon": 69.2075,
+    "type": "city",
+    "rank": 1
+  },
+  "Beirut": {
+    "name": "Beirut",
+    "lat": 33.8938,
+    "lon": 35.5018,
+    "type": "city",
+    "rank": 1
+  },
+  "Jerusalem": {
+    "name": "Jerusalem",
+    "lat": 31.7683,
+    "lon": 35.2137,
+    "type": "city",
+    "rank": 1
+  },
+  "Riyadh": {
+    "name": "Riyadh",
+    "lat": 24.7136,
+    "lon": 46.6753,
+    "type": "city",
+    "rank": 1
+  },
+  "Ankara": {
+    "name": "Ankara",
+    "lat": 39.9334,
+    "lon": 32.8597,
+    "type": "city",
+    "rank": 1
+  },
+  "Cairo": {
+    "name": "Cairo",
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "type": "city",
+    "rank": 1
+  },
+  "New York": {
+    "name": "New York",
+    "lat": 40.7128,
+    "lon": -74.006,
+    "type": "city",
+    "rank": 1
+  },
+  "San Francisco": {
+    "name": "San Francisco",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "type": "city",
+    "rank": 1
+  },
+  "Silicon Valley": {
+    "name": "Silicon Valley",
+    "lat": 37.3875,
+    "lon": -122.0575,
+    "type": "region",
+    "rank": 2
+  },
+  "Middle East": {
+    "name": "Middle East",
+    "lat": 29.2985,
+    "lon": 42.551,
+    "type": "region",
+    "rank": 2
+  },
+  "Europe": {
+    "name": "Europe",
+    "lat": 54.526,
+    "lon": 15.2551,
+    "type": "region",
+    "rank": 2
+  },
+  "Asia": {
+    "name": "Asia",
+    "lat": 34.0479,
+    "lon": 100.6197,
+    "type": "region",
+    "rank": 2
+  },
+  "Africa": {
+    "name": "Africa",
+    "lat": -8.7832,
+    "lon": 34.5085,
+    "type": "region",
+    "rank": 2
+  },
+  "United Arab Emirates": {
+    "name": "United Arab Emirates",
+    "lat": 23.4241,
+    "lon": 53.8478,
+    "type": "country",
+    "rank": 3
+  },
+  "René Redzepi": null,
+  "Hungary": {
+    "name": "Hungary",
+    "lat": 47.1817585,
+    "lon": 19.5060937,
+    "type": "country",
+    "rank": 3
+  },
+  "the United States": {
+    "name": "the United States",
+    "lat": 47.8291375,
+    "lon": -122.5970742,
+    "type": "country",
+    "rank": 3
+  },
+  "the Persian Gulf": {
+    "name": "the Persian Gulf",
+    "lat": 34.0554039,
+    "lon": -118.442059,
+    "type": "country",
+    "rank": 3
+  },
+  "Gulf": {
+    "name": "Gulf",
+    "lat": 29.9665252,
+    "lon": -85.2175889,
+    "type": "region",
+    "rank": 2
+  },
+  "Shukeiri": null,
+  "White Nile": {
+    "name": "White Nile",
+    "lat": 9.3785792,
+    "lon": 31.310453,
+    "type": "country",
+    "rank": 3
+  },
+  "M23": {
+    "name": "M23",
+    "lat": 34.6460778,
+    "lon": 135.5152685,
+    "type": "country",
+    "rank": 3
+  },
+  "Himbi": {
+    "name": "Himbi",
+    "lat": -1.6656047,
+    "lon": 29.1934088,
+    "type": "country",
+    "rank": 3
+  },
+  "West Africa Province": {
+    "name": "West Africa Province",
+    "lat": 7.9397909,
+    "lon": -11.7027821,
+    "type": "country",
+    "rank": 3
+  },
+  "Borno": {
+    "name": "Borno",
+    "lat": 45.9473303,
+    "lon": 10.2064036,
+    "type": "city",
+    "rank": 1
+  },
+  "Punch": {
+    "name": "Punch",
+    "lat": 33.7670004,
+    "lon": 74.0957143,
+    "type": "city",
+    "rank": 1
+  },
+  "Guinea": {
+    "name": "Guinea",
+    "lat": 10.7226226,
+    "lon": -10.7083587,
+    "type": "country",
+    "rank": 3
+  },
+  "the Strait of Hormuz": null,
+  "Basra": {
+    "name": "Basra",
+    "lat": 30.4952371,
+    "lon": 47.8090981,
+    "type": "city",
+    "rank": 1
+  },
+  "Indianapolis": {
+    "name": "Indianapolis",
+    "lat": 39.7683331,
+    "lon": -86.1583502,
+    "type": "city",
+    "rank": 1
+  },
+  "Gulf Strikes": null,
+  "Red Sea": {
+    "name": "Red Sea",
+    "lat": 25.5664162,
+    "lon": 34.0930512,
+    "type": "region",
+    "rank": 2
+  },
+  "Strait": {
+    "name": "Strait",
+    "lat": 65.8455661,
+    "lon": -169.3785432,
+    "type": "country",
+    "rank": 3
+  },
+  "the North Sea": {
+    "name": "the North Sea",
+    "lat": 55.7355049,
+    "lon": 9.1283737,
+    "type": "country",
+    "rank": 3
+  },
+  "Strait of Hormuz": {
+    "name": "Strait of Hormuz",
+    "lat": 26.4494061,
+    "lon": 56.2027702,
+    "type": "country",
+    "rank": 3
+  },
+  "Nepal": {
+    "name": "Nepal",
+    "lat": 28.3780464,
+    "lon": 83.9999901,
+    "type": "country",
+    "rank": 3
+  },
+  "Gunmen": null,
+  "Sri Lanka": {
+    "name": "Sri Lanka",
+    "lat": 7.5554942,
+    "lon": 80.7137847,
+    "type": "country",
+    "rank": 3
+  },
+  "the Middle East": {
+    "name": "the Middle East",
+    "lat": 55.4142529,
+    "lon": -2.201099,
+    "type": "country",
+    "rank": 3
+  },
+  "Chile": {
+    "name": "Chile",
+    "lat": -31.7613365,
+    "lon": -71.3187697,
+    "type": "country",
+    "rank": 3
+  },
+  "Britain": {
+    "name": "Britain",
+    "lat": 54.3151594,
+    "lon": -1.9181532,
+    "type": "country",
+    "rank": 3
+  },
+  "El Salvador’s": {
+    "name": "El Salvador’s",
+    "lat": 13.7155328,
+    "lon": -89.3460492,
+    "type": "country",
+    "rank": 3
+  },
+  "el-salvador\">1.4": {
+    "name": "el-salvador\">1.4",
+    "lat": -26.2462114,
+    "lon": -69.6259658,
+    "type": "city",
+    "rank": 1
+  },
+  "El Salvador": {
+    "name": "El Salvador",
+    "lat": 13.8000382,
+    "lon": -88.9140683,
+    "type": "country",
+    "rank": 3
+  },
+  "Latin America’s": {
+    "name": "Latin America’s",
+    "lat": -23.5275415,
+    "lon": -46.6654403,
+    "type": "country",
+    "rank": 3
+  },
+  "Brasília": {
+    "name": "Brasília",
+    "lat": -15.7939869,
+    "lon": -47.8828,
+    "type": "city",
+    "rank": 1
+  },
+  "Pinochet": {
+    "name": "Pinochet",
+    "lat": -35.9815913,
+    "lon": -72.3129393,
+    "type": "country",
+    "rank": 3
+  },
+  "Michigan": {
+    "name": "Michigan",
+    "lat": 43.6211955,
+    "lon": -84.6824346,
+    "type": "region",
+    "rank": 2
+  },
+  "Temple Israel": {
+    "name": "Temple Israel",
+    "lat": 40.7725908,
+    "lon": -73.9618325,
+    "type": "country",
+    "rank": 3
+  },
+  "America": {
+    "name": "America",
+    "lat": 39.7837304,
+    "lon": -100.445882,
+    "type": "country",
+    "rank": 3
+  },
+  "Machado": {
+    "name": "Machado",
+    "lat": -21.6762861,
+    "lon": -45.9211696,
+    "type": "city",
+    "rank": 1
+  },
+  "Mount Vesuvius": {
+    "name": "Mount Vesuvius",
+    "lat": 40.8213963,
+    "lon": 14.4261967,
+    "type": "country",
+    "rank": 3
+  },
+  "Latvia": {
+    "name": "Latvia",
+    "lat": 56.8406494,
+    "lon": 24.7537645,
+    "type": "country",
+    "rank": 3
+  },
+  "Zelenskyy": {
+    "name": "Zelenskyy",
+    "lat": 40.4521709,
+    "lon": -3.6388001,
+    "type": "country",
+    "rank": 3
+  },
+  "New Relic": {
+    "name": "New Relic",
+    "lat": 53.3409573,
+    "lon": -6.2675467,
+    "type": "country",
+    "rank": 3
+  },
+  "Gemini": {
+    "name": "Gemini",
+    "lat": 39.9119601,
+    "lon": 18.1853487,
+    "type": "city",
+    "rank": 1
+  },
+  "Mediterranean": {
+    "name": "Mediterranean",
+    "lat": 35.0000035,
+    "lon": 19.9999957,
+    "type": "country",
+    "rank": 3
+  },
+  "the Mediterranean Sea": {
+    "name": "the Mediterranean Sea",
+    "lat": 31.27717,
+    "lon": 16.020182,
+    "type": "country",
+    "rank": 3
+  },
+  "Earth": {
+    "name": "Earth",
+    "lat": 34.2331373,
+    "lon": -102.4107493,
+    "type": "city",
+    "rank": 1
+  },
+  "CoA": {
+    "name": "CoA",
+    "lat": 27.3333331,
+    "lon": -102.0000001,
+    "type": "region",
+    "rank": 2
+  },
+  "mitochondria": {
+    "name": "mitochondria",
+    "lat": 36.6617192,
+    "lon": -118.4349929,
+    "type": "country",
+    "rank": 3
+  },
+  "Alberta": {
+    "name": "Alberta",
+    "lat": 55.001251,
+    "lon": -115.002136,
+    "type": "region",
+    "rank": 2
+  },
+  "Khmer": {
+    "name": "Khmer",
+    "lat": 43.6980029,
+    "lon": 7.2764709,
+    "type": "country",
+    "rank": 3
+  },
+  "Cambodia": {
+    "name": "Cambodia",
+    "lat": 12.5433216,
+    "lon": 104.8144914,
+    "type": "country",
+    "rank": 3
+  },
+  "cuba": {
+    "name": "cuba",
+    "lat": 23.0131338,
+    "lon": -80.8328748,
+    "type": "country",
+    "rank": 3
+  },
+  "Caribbean": {
+    "name": "Caribbean",
+    "lat": 18.4,
+    "lon": -75.0,
+    "type": "region",
+    "rank": 2
+  },
+  "Honduras": {
+    "name": "Honduras",
+    "lat": 15.2572432,
+    "lon": -86.0755145,
+    "type": "country",
+    "rank": 3
+  },
+  "The United States": {
+    "name": "The United States",
+    "lat": 47.8291375,
+    "lon": -122.5970742,
+    "type": "country",
+    "rank": 3
+  },
+  "Austria": {
+    "name": "Austria",
+    "lat": 47.59397,
+    "lon": 14.12456,
+    "type": "country",
+    "rank": 3
+  },
+  "Rotterdam": {
+    "name": "Rotterdam",
+    "lat": 51.9244424,
+    "lon": 4.47775,
+    "type": "city",
+    "rank": 1
+  },
+  "Johannesburg": {
+    "name": "Johannesburg",
+    "lat": -26.205,
+    "lon": 28.049722,
+    "type": "city",
+    "rank": 1
+  },
+  "Sydney": {
+    "name": "Sydney",
+    "lat": -33.8698439,
+    "lon": 151.2082848,
+    "type": "city",
+    "rank": 1
+  },
+  "Kandahar province": {
+    "name": "Kandahar province",
+    "lat": 30.9910033,
+    "lon": 65.7068525,
+    "type": "region",
+    "rank": 2
+  },
+  "Kandahar": {
+    "name": "Kandahar",
+    "lat": 31.6205738,
+    "lon": 65.7157573,
+    "type": "city",
+    "rank": 1
+  },
+  "Latin America": {
+    "name": "Latin America",
+    "lat": 42.3739168,
+    "lon": -71.1106677,
+    "type": "country",
+    "rank": 3
+  },
+  "Panama": {
+    "name": "Panama",
+    "lat": 8.559559,
+    "lon": -81.1308434,
+    "type": "country",
+    "rank": 3
+  },
+  "Puerto Rico": {
+    "name": "Puerto Rico",
+    "lat": 18.2247706,
+    "lon": -66.4858295,
+    "type": "region",
+    "rank": 2
+  },
+  "Mexico City": {
+    "name": "Mexico City",
+    "lat": 19.3207722,
+    "lon": -99.1514678,
+    "type": "region",
+    "rank": 2
+  },
+  "Brussels": {
+    "name": "Brussels",
+    "lat": 50.8467372,
+    "lon": 4.352493,
+    "type": "city",
+    "rank": 1
+  },
+  "Denmark": {
+    "name": "Denmark",
+    "lat": 55.670249,
+    "lon": 10.3333283,
+    "type": "country",
+    "rank": 3
+  },
+  "Kharg Island": {
+    "name": "Kharg Island",
+    "lat": 29.2405943,
+    "lon": 50.3117293,
+    "type": "country",
+    "rank": 3
+  },
+  "Alps": {
+    "name": "Alps",
+    "lat": 45.9083263,
+    "lon": 9.1420628,
+    "type": "country",
+    "rank": 3
+  },
+  "Los Angeles": {
+    "name": "Los Angeles",
+    "lat": 34.0536909,
+    "lon": -118.242766,
+    "type": "city",
+    "rank": 1
+  },
+  "LA": {
+    "name": "LA",
+    "lat": 34.0536909,
+    "lon": -118.242766,
+    "type": "city",
+    "rank": 1
+  },
+  "Georgia": {
+    "name": "Georgia",
+    "lat": 32.3293809,
+    "lon": -83.1137366,
+    "type": "region",
+    "rank": 2
+  },
+  "Amsterdam": {
+    "name": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "type": "city",
+    "rank": 1
+  },
+  "Drones": {
+    "name": "Drones",
+    "lat": 55.1,
+    "lon": -6.35,
+    "type": "country",
+    "rank": 3
+  },
+  "Abidjan": {
+    "name": "Abidjan",
+    "lat": 5.320357,
+    "lon": -4.016107,
+    "type": "city",
+    "rank": 1
+  },
+  "france": {
+    "name": "france",
+    "lat": 46.603354,
+    "lon": 1.8883335,
+    "type": "country",
+    "rank": 3
+  },
+  "Bolivia": {
+    "name": "Bolivia",
+    "lat": -17.0568696,
+    "lon": -64.9912286,
+    "type": "country",
+    "rank": 3
+  },
+  "South America’s": {
+    "name": "South America’s",
+    "lat": 53.8637919,
+    "lon": 27.5560226,
+    "type": "country",
+    "rank": 3
+  },
+  "South America": {
+    "name": "South America",
+    "lat": -21.0002179,
+    "lon": -61.0006565,
+    "type": "country",
+    "rank": 3
+  },
+  "Detroit": {
+    "name": "Detroit",
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "type": "city",
+    "rank": 1
+  },
+  "New Mexico": {
+    "name": "New Mexico",
+    "lat": 34.5802074,
+    "lon": -105.996047,
+    "type": "region",
+    "rank": 2
+  },
+  "Ukrainian": {
+    "name": "Ukrainian",
+    "lat": 48.6499199,
+    "lon": 23.4200824,
+    "type": "country",
+    "rank": 3
+  },
+  "the eastern sea": {
+    "name": "the eastern sea",
+    "lat": 57.6881282,
+    "lon": -2.9296506,
+    "type": "country",
+    "rank": 3
+  },
+  "South": {
+    "name": "South",
+    "lat": 18.2612839,
+    "lon": -73.8444985,
+    "type": "region",
+    "rank": 2
+  },
+  "Venice": {
+    "name": "Venice",
+    "lat": 45.4371908,
+    "lon": 12.3345898,
+    "type": "city",
+    "rank": 1
+  },
+  "Congo": {
+    "name": "Congo",
+    "lat": -2.9814344,
+    "lon": 23.8222636,
+    "type": "country",
+    "rank": 3
+  },
+  "Rwanda": {
+    "name": "Rwanda",
+    "lat": -2.0002051,
+    "lon": 30.0003963,
+    "type": "country",
+    "rank": 3
+  },
+  "Spotify": {
+    "name": "Spotify",
+    "lat": 41.3808806,
+    "lon": 2.1228182,
+    "type": "country",
+    "rank": 3
+  },
+  "Cursor": {
+    "name": "Cursor",
+    "lat": 25.2595885,
+    "lon": 55.2902426,
+    "type": "country",
+    "rank": 3
+  },
+  "Digg": {
+    "name": "Digg",
+    "lat": 62.3885895,
+    "lon": 17.29532,
+    "type": "country",
+    "rank": 3
+  },
+  "California": {
+    "name": "California",
+    "lat": 36.7014631,
+    "lon": -118.755997,
+    "type": "region",
+    "rank": 2
+  },
+  "Greenland": {
+    "name": "Greenland",
+    "lat": 77.6192349,
+    "lon": -42.8125967,
+    "type": "country",
+    "rank": 3
+  },
+  "the Milky Way": {
+    "name": "the Milky Way",
+    "lat": 48.6852773,
+    "lon": -122.939594,
+    "type": "country",
+    "rank": 3
+  },
+  "Cambridge": {
+    "name": "Cambridge",
+    "lat": 52.2055314,
+    "lon": 0.1186637,
+    "type": "city",
+    "rank": 1
+  },
+  "Embassy": {
+    "name": "Embassy",
+    "lat": 0.4344731,
+    "lon": 9.4191256,
+    "type": "country",
+    "rank": 3
+  },
+  "Moron": {
+    "name": "Moron",
+    "lat": 47.2624109,
+    "lon": 7.263426,
+    "type": "country",
+    "rank": 3
+  },
+  "Bahrain": {
+    "name": "Bahrain",
+    "lat": 26.1551249,
+    "lon": 50.5344606,
+    "type": "country",
+    "rank": 3
+  },
+  "New York City": {
+    "name": "New York City",
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "type": "city",
+    "rank": 1
+  },
+  "Pennsylvania": {
+    "name": "Pennsylvania",
+    "lat": 40.9699889,
+    "lon": -77.7278831,
+    "type": "region",
+    "rank": 2
+  },
+  "Snake": {
+    "name": "Snake",
+    "lat": 42.9984364,
+    "lon": -115.1807287,
+    "type": "country",
+    "rank": 3
+  },
+  "Quinn": {
+    "name": "Quinn",
+    "lat": 43.9880447,
+    "lon": -102.126266,
+    "type": "city",
+    "rank": 1
+  },
+  "Caracas": {
+    "name": "Caracas",
+    "lat": 10.5060934,
+    "lon": -66.9146008,
+    "type": "city",
+    "rank": 1
+  },
+  "Brasilia": {
+    "name": "Brasilia",
+    "lat": -15.7939869,
+    "lon": -47.8828,
+    "type": "city",
+    "rank": 1
+  },
+  "North America": {
+    "name": "North America",
+    "lat": 51.0000002,
+    "lon": -109.0,
+    "type": "country",
+    "rank": 3
+  }
+}

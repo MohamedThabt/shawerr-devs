@@ -1,0 +1,115 @@
+{
+  "info": {
+    "_postman_id": "c7c8f1fb-ff2f-4d33-a240-bb7f54286b6c",
+    "name": "World Monitor API",
+    "description": "Collection for World Monitor FastAPI endpoints.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "https://api-worldmonitor.sirthabet.dev",
+      "type": "string"
+    },
+    {
+      "key": "localBaseUrl",
+      "value": "http://localhost:8080",
+      "type": "string"
+    }
+  ],
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            ""
+          ]
+        },
+        "description": "API root health check."
+      },
+      "response": []
+    },
+    {
+      "name": "Get News",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/news",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "news"
+          ]
+        },
+        "description": "Retrieve latest cached news articles."
+      },
+      "response": []
+    },
+    {
+      "name": "Get Map News",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/map",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "map"
+          ]
+        },
+        "description": "Retrieve geocoded news for map markers."
+      },
+      "response": []
+    },
+    {
+      "name": "Get AI Briefs",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/ai-briefs",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "ai-briefs"
+          ]
+        },
+        "description": "Retrieve latest AI-generated world and tech briefs."
+      },
+      "response": []
+    },
+    {
+      "name": "Swagger Docs",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/docs",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "docs"
+          ]
+        },
+        "description": "OpenAPI Swagger UI endpoint."
+      },
+      "response": []
+    }
+  ]
+}
